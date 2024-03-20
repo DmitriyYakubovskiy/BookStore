@@ -1,0 +1,110 @@
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.exe
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.deps.json
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.runtimeconfig.json
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.pdb
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore_MarkupCompile.cache
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore_MarkupCompile.lref
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.g.resources
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.AssemblyInfoInputs.cache
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.AssemblyInfo.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\refint\BookStore.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.pdb
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.genruntimeconfig.cache
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\ref\BookStore.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.AssemblyReference.cache
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\BookView.g.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\App.g.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\BookView.baml
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\MainWindow.baml
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.CopyComplete
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\ShowBookInfoView.g.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\ShowBookInfoView.baml
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\LogInView.g.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\LogInView.baml
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\RegisterView.g.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\RegisterView.baml
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\DiscountsView.g.cs
+C:\Users\yakub\OneDrive\Рабочий стол\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\DiscountsView.baml
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.exe
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\appsettings.json
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.deps.json
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.runtimeconfig.json
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\BookStore.pdb
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Npgsql.dll
+D:\Programming\Exam\BookStore\BookStore\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.AssemblyReference.cache
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\BookView.g.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\DiscountsView.g.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\LogInView.g.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\RegisterView.g.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\ShowBookInfoView.g.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\App.g.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore_MarkupCompile.cache
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore_MarkupCompile.lref
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\BookView.baml
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\DiscountsView.baml
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\LogInView.baml
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\MainWindow.baml
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\RegisterView.baml
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\Views\ShowBookInfoView.baml
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.g.resources
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.AssemblyInfoInputs.cache
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.AssemblyInfo.cs
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.CoreCompileInputs.cache
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.CopyComplete
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.dll
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\refint\BookStore.dll
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.pdb
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.genruntimeconfig.cache
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\ref\BookStore.dll

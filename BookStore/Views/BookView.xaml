@@ -1,0 +1,78 @@
+﻿<Window x:Class="BookStore.Views.BookView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStore.Views"
+        mc:Ignorable="d"
+        Title="Book" Height="350" Width="500"
+        WindowStartupLocation="CenterOwner">
+    <Window.Resources>
+        <ResourceDictionary>
+            <Style TargetType="TextBlock">
+                <Setter Property="FontFamily" Value="Tahoma"/>
+                <Setter Property="HorizontalAlignment" Value="Left"/>
+                <Setter Property="FontSize" Value="16"/>
+                <Setter Property="Margin" Value="5"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="FontFamily" Value="Tahoma"/>
+                <Setter Property="HorizontalAlignment" Value="Right"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="Margin" Value="2"/>
+            </Style>
+            <Style TargetType="TextBox">
+                <Setter Property="FontFamily" Value="Tahoma"/>
+                <Setter Property="FontSize" Value="16"/>
+                <Setter Property="Margin" Value="1"/>
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Title: "/>
+        <TextBlock Grid.Row="1" Text="Author name: "/>
+        <TextBlock Grid.Row="2" Text="Publisher name: "/>
+        <TextBlock Grid.Row="3" Text="Genre: "/>
+        <TextBlock Grid.Row="4" Text="Page count: "/>
+        <TextBlock Grid.Row="5" Text="Year: "/>
+        <TextBlock Grid.Row="6" Text="Cost price: "/>
+        <TextBlock Grid.Row="7" Text="Selling price: "/>
+        <TextBlock Grid.Row="8" Text="Continuation book name: "/>
+
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Book.Title}"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Book.AuthorName}"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Book.PublisherName}"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Book.Genre}"/>
+        <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding Book.PageCount}"/>
+        <TextBox Grid.Row="5" Grid.Column="1" Text="{Binding Book.Year}"/>
+        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding Book.CostPrice}"/>
+        <TextBox Grid.Row="7" Grid.Column="1" Text="{Binding Book.SellingPrice}"/>
+        <TextBox Grid.Row="8" Grid.Column="1" Text="{Binding Book.ContinuationBookTitle}"/>
+
+        <Grid Grid.Column="1" Grid.Row="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" Content="Ok" Width="100" Command="{Binding OkCommand}"/>
+            <Button Grid.Column="1" Content="Cancel" Width="100" Command="{Binding CancelCommand}"/>
+        </Grid>
+    </Grid>
+</Window>
