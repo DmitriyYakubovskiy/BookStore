@@ -102,9 +102,10 @@ D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.Gener
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.AssemblyInfoInputs.cache
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.AssemblyInfo.cs
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.CoreCompileInputs.cache
-D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.CopyComplete
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.dll
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\refint\BookStore.dll
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.pdb
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.genruntimeconfig.cache
 D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\ref\BookStore.dll
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.sourcelink.json
+D:\Programming\Exam\BookStore\BookStore\obj\Debug\net7.0-windows\BookStore.csproj.Up2Date

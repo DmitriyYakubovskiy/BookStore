@@ -112,7 +112,8 @@
         <ListBox
             ItemsSource="{Binding TableHeader}"
             Grid.Row="0" Grid.Column="1"
-            HorizontalContentAlignment="Stretch">
+            HorizontalContentAlignment="Stretch"
+            Grid.IsSharedSizeScope="True">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <Grid Grid.Row="0" Grid.Column="1" >
@@ -141,7 +142,8 @@
         <ListBox
             Grid.Column="1" Grid.Row="1"
             ItemsSource="{Binding Books}"
-            HorizontalContentAlignment="Stretch">
+            HorizontalContentAlignment="Stretch"
+            Grid.IsSharedSizeScope="True">
             <ListBox.ItemTemplate>
                 <DataTemplate >
                     <Grid>
