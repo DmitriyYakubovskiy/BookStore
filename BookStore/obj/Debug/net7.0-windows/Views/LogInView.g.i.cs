@@ -53,7 +53,7 @@ namespace BookStore.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BookStore;component/views/loginview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BookStore;V1.0.0.0;component/views/loginview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\LogInView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

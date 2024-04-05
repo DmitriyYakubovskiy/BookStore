@@ -3,7 +3,67 @@
   "WorkspaceRootPath": "D:\\Programming\\Exam\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|d:\\programming\\exam\\bookstore\\bookstore\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|d:\\programming\\exam\\bookstore\\bookstore\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\models\\bookscollectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\models\\bookscollectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\discountsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\discountsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\showbookinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\showbookinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\models\\discountcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\models\\discountcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\configurations\\authorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\configurations\\authorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\configurations\\bookentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\configurations\\bookentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\entities\\discountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\entities\\discountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\configurations\\discountentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\configurations\\discountentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -15,44 +75,8 @@
       "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\commands\\genericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\models\\bookscollectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\models\\bookscollectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\configurations\\bookentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\configurations\\bookentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\configurations\\discountentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\configurations\\discountentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\configurations\\authorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dataaccess\\configurations\\authorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\discountsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\discountsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\configurations\\genreentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,16 +107,8 @@
       "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\viewmodels\\showbookinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\viewmodels\\showbookinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\views\\discountsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -105,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\views\\showbookinfoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\views\\showbookinfoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\models\\discountcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\models\\discountcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B1E05A8-C8E4-455D-B375-BE3115AEE8BE}|BookStore\\BookStore.csproj|D:\\Programming\\Exam\\BookStore\\bookstore\\dataaccess\\entities\\genreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,127 +163,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "BookStore\\Views\\MainWindow.xaml",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "BookStore\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-01T15:01:36.293Z",
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "BookStore\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv3UAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:55:13.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "BookStore\\Models\\BookModel.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BookModel.cs",
-              "RelativeToolTip": "BookStore\\Models\\BookModel.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAA7wKUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml",
-              "RelativeDocumentMoniker": "BookStore\\Views\\App.xaml",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml",
-              "RelativeToolTip": "BookStore\\Views\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-09T14:02:03.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "BookStore\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "BookStore\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwFEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BooksCollectionModel.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BooksCollectionModel.cs",
-              "RelativeDocumentMoniker": "BookStore\\Models\\BooksCollectionModel.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BooksCollectionModel.cs",
-              "RelativeToolTip": "BookStore\\Models\\BooksCollectionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenericCommand.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Commands\\GenericCommand.cs",
-              "RelativeDocumentMoniker": "BookStore\\Commands\\GenericCommand.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Commands\\GenericCommand.cs",
-              "RelativeToolTip": "BookStore\\Commands\\GenericCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "BookEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
+              "RelativeToolTip": "BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-09T14:02:03.898Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DiscountEntityConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
-              "RelativeToolTip": "BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Title": "DiscountCollection.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\DiscountCollection.cs",
+              "RelativeDocumentMoniker": "BookStore\\Models\\DiscountCollection.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\DiscountCollection.cs",
+              "RelativeToolTip": "BookStore\\Models\\DiscountCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.897Z"
+              "WhenOpened": "2024-02-09T14:02:03.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenreEntityConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
-              "RelativeToolTip": "BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "DocumentIndex": 3,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "BookStore\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwFoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.896Z"
+              "WhenOpened": "2024-02-09T14:02:03.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DiscountsView.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\DiscountsView.xaml.cs",
-              "RelativeDocumentMoniker": "BookStore\\Views\\DiscountsView.xaml.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\DiscountsView.xaml.cs",
-              "RelativeToolTip": "BookStore\\Views\\DiscountsView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "BookStore\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwFEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.892Z"
+              "WhenOpened": "2024-02-09T14:02:03.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml.cs",
-              "RelativeDocumentMoniker": "BookStore\\Views\\App.xaml.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml.cs",
-              "RelativeToolTip": "BookStore\\Views\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "DocumentIndex": 7,
+              "Title": "ShowBookInfoViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
+              "RelativeToolTip": "BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.89Z"
+              "WhenOpened": "2024-02-09T14:02:03.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 5,
+              "Title": "LogInViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\LogInViewModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\ViewModels\\LogInViewModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\LogInViewModel.cs",
+              "RelativeToolTip": "BookStore\\ViewModels\\LogInViewModel.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountsViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\DiscountsViewModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\ViewModels\\DiscountsViewModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\DiscountsViewModel.cs",
+              "RelativeToolTip": "BookStore\\ViewModels\\DiscountsViewModel.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAkwDoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookView.xaml",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\BookView.xaml",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml",
+              "RelativeToolTip": "BookStore\\Views\\BookView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-09T14:02:03.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "LogInView.xaml.cs",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\LogInView.xaml.cs",
               "RelativeDocumentMoniker": "BookStore\\Views\\LogInView.xaml.cs",
@@ -283,96 +282,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "BookStore\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "BookStore\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LogInViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\LogInViewModel.cs",
-              "RelativeDocumentMoniker": "BookStore\\ViewModels\\LogInViewModel.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\LogInViewModel.cs",
-              "RelativeToolTip": "BookStore\\ViewModels\\LogInViewModel.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAcwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DiscountsViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\DiscountsViewModel.cs",
-              "RelativeDocumentMoniker": "BookStore\\ViewModels\\DiscountsViewModel.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\DiscountsViewModel.cs",
-              "RelativeToolTip": "BookStore\\ViewModels\\DiscountsViewModel.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAmwDoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookEntityConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
-              "RelativeToolTip": "BookStore\\DataAccess\\Configurations\\BookEntityConfiguration.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ShowBookInfoView.xaml",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\ShowBookInfoView.xaml",
-              "RelativeDocumentMoniker": "BookStore\\Views\\ShowBookInfoView.xaml",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\ShowBookInfoView.xaml",
-              "RelativeToolTip": "BookStore\\Views\\ShowBookInfoView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-09T14:02:03.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BookView.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml.cs",
-              "RelativeDocumentMoniker": "BookStore\\Views\\BookView.xaml.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml.cs",
-              "RelativeToolTip": "BookStore\\Views\\BookView.xaml.cs",
+              "DocumentIndex": 1,
+              "Title": "BooksCollectionModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BooksCollectionModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\Models\\BooksCollectionModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BooksCollectionModel.cs",
+              "RelativeToolTip": "BookStore\\Models\\BooksCollectionModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:51:08.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\appsettings.json",
-              "RelativeDocumentMoniker": "BookStore\\appsettings.json",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\appsettings.json",
-              "RelativeToolTip": "BookStore\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-22T08:24:35.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ShowBookInfoViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
-              "RelativeDocumentMoniker": "BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
-              "RelativeToolTip": "BookStore\\ViewModels\\ShowBookInfoViewModel.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-09T14:02:03.623Z"
             },
@@ -390,43 +306,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookEntity.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\BookEntity.cs",
-              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Entities\\BookEntity.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\BookEntity.cs",
-              "RelativeToolTip": "BookStore\\DataAccess\\Entities\\BookEntity.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "DocumentIndex": 23,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BookStore\\Views\\App.xaml.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml.cs",
+              "RelativeToolTip": "BookStore\\Views\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.894Z"
+              "WhenOpened": "2024-02-09T14:02:03.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\BookViewModel.cs",
-              "RelativeDocumentMoniker": "BookStore\\ViewModels\\BookViewModel.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\ViewModels\\BookViewModel.cs",
-              "RelativeToolTip": "BookStore\\ViewModels\\BookViewModel.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "DocumentIndex": 29,
+              "Title": "ShowBookInfoView.xaml",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\ShowBookInfoView.xaml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\ShowBookInfoView.xaml",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\ShowBookInfoView.xaml",
+              "RelativeToolTip": "BookStore\\Views\\ShowBookInfoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-09T14:02:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookView.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml.cs",
+              "RelativeDocumentMoniker": "BookStore\\Views\\BookView.xaml.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml.cs",
+              "RelativeToolTip": "BookStore\\Views\\BookView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.886Z"
+              "WhenOpened": "2024-03-20T11:51:08.795Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "DiscountCollection.cs",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\DiscountCollection.cs",
-              "RelativeDocumentMoniker": "BookStore\\Models\\DiscountCollection.cs",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\DiscountCollection.cs",
-              "RelativeToolTip": "BookStore\\Models\\DiscountCollection.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T14:02:03.885Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStore\\appsettings.json",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\appsettings.json",
+              "RelativeToolTip": "BookStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T08:24:35.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "RegisterView.xaml",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\RegisterView.xaml",
               "RelativeDocumentMoniker": "BookStore\\Views\\RegisterView.xaml",
@@ -437,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "LogInView.xaml",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\LogInView.xaml",
               "RelativeDocumentMoniker": "BookStore\\Views\\LogInView.xaml",
@@ -448,18 +375,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookView.xaml",
-              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml",
-              "RelativeDocumentMoniker": "BookStore\\Views\\BookView.xaml",
-              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\BookView.xaml",
-              "RelativeToolTip": "BookStore\\Views\\BookView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-09T14:02:03.888Z"
+              "DocumentIndex": 20,
+              "Title": "DiscountsView.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\DiscountsView.xaml.cs",
+              "RelativeDocumentMoniker": "BookStore\\Views\\DiscountsView.xaml.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\DiscountsView.xaml.cs",
+              "RelativeToolTip": "BookStore\\Views\\DiscountsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
+              "Title": "GenreEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
+              "RelativeToolTip": "BookStore\\DataAccess\\Configurations\\GenreEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiscountEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
+              "RelativeToolTip": "BookStore\\DataAccess\\Configurations\\DiscountEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "BookStore\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T15:01:36.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorEntity.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\AuthorEntity.cs",
+              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Entities\\AuthorEntity.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\AuthorEntity.cs",
+              "RelativeToolTip": "BookStore\\DataAccess\\Entities\\AuthorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:33:19.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiscountEntity.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\DiscountEntity.cs",
+              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Entities\\DiscountEntity.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\DiscountEntity.cs",
+              "RelativeToolTip": "BookStore\\DataAccess\\Entities\\DiscountEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:33:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "BookStore\\DataAccess\\Entities\\BookEntity.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "BookStore\\DataAccess\\Entities\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericCommand.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Commands\\GenericCommand.cs",
+              "RelativeDocumentMoniker": "BookStore\\Commands\\GenericCommand.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Commands\\GenericCommand.cs",
+              "RelativeToolTip": "BookStore\\Commands\\GenericCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml",
+              "RelativeDocumentMoniker": "BookStore\\Views\\App.xaml",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\App.xaml",
+              "RelativeToolTip": "BookStore\\Views\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-09T14:02:03.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "BookStore\\Models\\BookModel.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Models\\BookModel.cs",
+              "RelativeToolTip": "BookStore\\Models\\BookModel.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAA7wKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookStore\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BookStore\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:02:03.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "DiscountsView.xaml",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\DiscountsView.xaml",
               "RelativeDocumentMoniker": "BookStore\\Views\\DiscountsView.xaml",
@@ -470,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "GenreEntity.cs",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Entities\\GenreEntity.cs",
               "RelativeDocumentMoniker": "BookStore\\DataAccess\\Entities\\GenreEntity.cs",
@@ -482,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "UserEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\UserEntityConfiguration.cs",
               "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\UserEntityConfiguration.cs",
@@ -494,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "PublisherEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\DataAccess\\Configurations\\PublisherEntityConfiguration.cs",
               "RelativeDocumentMoniker": "BookStore\\DataAccess\\Configurations\\PublisherEntityConfiguration.cs",
@@ -506,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "DelegateCommand.cs",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Commands\\DelegateCommand.cs",
               "RelativeDocumentMoniker": "BookStore\\Commands\\DelegateCommand.cs",
@@ -518,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Command.cs",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Commands\\Command.cs",
               "RelativeDocumentMoniker": "BookStore\\Commands\\Command.cs",
@@ -530,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "RegisterView.xaml.cs",
               "DocumentMoniker": "D:\\Programming\\Exam\\BookStore\\BookStore\\Views\\RegisterView.xaml.cs",
               "RelativeDocumentMoniker": "BookStore\\Views\\RegisterView.xaml.cs",
